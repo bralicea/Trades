@@ -1,0 +1,11 @@
+
+[tests]
+doubles
+flake8<3
+flake8-quotes
+mock<1.1.0
+pytest<3,>=2.7
+pytest-cov
+pytest-mock
+Sphinx
+sphinx_rtd_theme

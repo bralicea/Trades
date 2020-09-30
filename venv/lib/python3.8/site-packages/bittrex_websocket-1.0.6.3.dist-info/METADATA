@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: bittrex-websocket
+Version: 1.0.6.3
+Summary: The unofficial Python websocket client for the Bittrex Cryptocurrency Exchange
+Home-page: https://github.com/slazarov/python-bittrex-websocket
+Author: Stanislav Lazarov
+Author-email: s.a.lazarov@gmail.com
+License: MIT
+Download-URL: https://github.com/slazarov/python-bittrex-websocket.git
+Keywords: bittrex,bittrex-websocket,orderbook,trade,bitcoin,ethereum,BTC,ETH,client,websocket,exchange,crypto,currency,trading
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: requests[security] (==2.20.0)
+Requires-Dist: Events (==0.3)
+Requires-Dist: websocket-client (>=0.53.0)
+Requires-Dist: signalr-client-threads
+
+UNKNOWN
+
+

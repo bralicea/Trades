@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: requests-security-extra
+Version: 0
+Summary: A package used to detect installing 'requests[security]'
+Home-page: https://github.com/psf/requests
+License: UNKNOWN
+Author: Seth Michael Larson
+Author-email: sethmichaellarson@gmail.com
+Classifier: License :: OSI Approved :: MIT License
